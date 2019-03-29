@@ -27,6 +27,11 @@ truffle deploy
 truffle migrate
 
 ## Execução da aplicação
+Antes de executar a aplicação, é necessário instalar as dependências Javascript que nossa aplicação utiliza. Para isso, navegue ao diretório raiz do projeto e execute o comando:
+```
+npm install
+```
+
 Por fim, você vai estar apto a executar a aplicação web e interagir com seu Smart Contract. Basta entrar no diretório src e executar o seguinte comando:
 ```
 npm run dev
