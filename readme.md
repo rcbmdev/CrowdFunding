@@ -25,7 +25,7 @@ No diretório contracts há o arquivo CrowdFunding.sol que é escrito em Solidit
 ```
 truffle deploy
 truffle migrate
-
+```
 ## Execução da aplicação
 Antes de executar a aplicação, é necessário instalar as dependências Javascript que nossa aplicação utiliza. Para isso, navegue ao diretório raiz do projeto e execute o comando:
 ```
